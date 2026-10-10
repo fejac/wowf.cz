@@ -1,0 +1,36 @@
+# WoWF.cz – čeština pro WoW: Forever
+
+Komunitní český překlad questů a rozhovorů s NPC pro WoW: Forever, včetně volitelného českého dabingu.
+
+Web projektu: https://wowf.cz
+
+## Stažení
+
+Vše je ke stažení v sekci [Releases](../../releases).
+
+- **WowfCZ.zip** – addon s českými texty (questy, deník, rozhovory s NPC)
+- **WowfCZ_Voice_….zip** – český dabing, každá lokace je samostatný balíček
+
+## Instalace
+
+1. Stáhni `WowfCZ.zip` a rozbal ho do `World of Warcraft\_classic_beta_\Interface\AddOns`.
+2. Spusť hru. Nastavení otevřeš příkazem `/wowf`.
+
+### Dabing (volitelný)
+
+1. Stáhni balíčky `WowfCZ_Voice_…` pro lokace, které chceš slyšet česky.
+2. Rozbal je do stejné složky `Interface\AddOns` vedle `WowfCZ`.
+3. Restartuj hru – po `/reload` hra nové zvuky nenajde.
+
+## Aktualizace
+
+Stáhni nový zip a přepiš starou složku.
+
+## Chceš pomoct?
+
+Překlady vznikají na https://wowf.cz – můžeš tam navrhovat opravy nebo překládat nové questy.
+Chyby a připomínky hlas na Discordu: https://discord.gg/mVeudws8U8
+
+---
+
+Neoficiální komunitní projekt fanoušků. World of Warcraft je ochranná známka Blizzard Entertainment.
